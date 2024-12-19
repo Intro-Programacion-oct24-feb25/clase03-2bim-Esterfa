@@ -27,7 +27,7 @@ public class Ejemplo11 {
         3      4
         20     40
         */
-        int[][] sumaArreglo = new int[2][2]; //
+        int[][] sumaArreglo = new int[2][2]; // 1 + 3 = 4 
         /*
         4    6
         30   52

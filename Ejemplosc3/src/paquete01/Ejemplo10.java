@@ -47,7 +47,7 @@ public class Ejemplo10 {
         
         for (int fila = 0; fila < arreglo1.length; fila++) {
             for (int col = 0; col < arreglo1[fila].length; col++) {
-                valor = arreglo1[fila][col];
+                valor = arreglo1[fila][col]; //evaluar si es + o -
                 
                 if(valor>0){
                     sumaPositivos = sumaPositivos + valor;
